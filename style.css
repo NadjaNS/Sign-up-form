@@ -151,3 +151,23 @@ input {
   background-color: var(--white-color);
   border-radius: 0 3rem 3rem 0;
 }
+@media only screen and (max-width: 900px) {
+  html {
+    font-size: 50%;
+  }
+}
+@media only screen and (max-width: 738px) {
+  html {
+    font-size: 40%;
+  }
+}
+@media only screen and (max-width: 580px) {
+  html {
+    font-size: 30%;
+  }
+}
+@media only screen and (max-width: 440px) {
+  html {
+    font-size: 30%;
+  }
+}
